@@ -4,4 +4,5 @@ Site réalisé en utilisant React, TailwindCSS, emailJS, framer-motion et Vite n
 
 Voici quelques captures d'écrans : 
 
-![plot]("./medianis_hero.png")
+![plot](./medianis_hero.png)
+![plot](./medianis_info.png)
